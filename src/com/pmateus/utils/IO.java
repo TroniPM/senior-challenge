@@ -21,7 +21,7 @@ import java.util.logging.Logger;
  */
 public class IO {
 
-    private static final String fileName = "D:\\NetBeansProjects\\DesafioSenior\\data\\sms_senior.csv";
+    private static final String fileName = ".\\data\\sms_senior.csv";
 
     public static ArrayList<Mensagem> read() {
         ArrayList<Mensagem> response = new ArrayList<>();
