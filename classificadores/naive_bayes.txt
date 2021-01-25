@@ -1,0 +1,940 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.bayes.NaiveBayes 
+Relation:     sms_senior-weka.filters.unsupervised.attribute.Remove-R150-153
+Instances:    5574
+Attributes:   150
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                Class
+Attribute          no    yes
+               (0.87) (0.13)
+=============================
+got
+  mean          0.0483 0.0094
+  std. dev.     0.2247 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+great
+  mean          0.0207 0.0147
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+wat
+  mean          0.0197 0.0013
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+free
+  mean          0.0122 0.2932
+  std. dev.     0.1667 0.6109
+  weight sum      4827    747
+  precision          1      1
+
+text
+  mean          0.0141  0.162
+  std. dev.     0.1667 0.4257
+  weight sum      4827    747
+  precision          1      1
+
+txt
+  mean          0.0027 0.2008
+  std. dev.     0.1667 0.4296
+  weight sum      4827    747
+  precision          1      1
+
+win
+  mean          0.0025 0.0817
+  std. dev.     0.1667 0.2738
+  weight sum      4827    747
+  precision          1      1
+
+already
+  mean          0.0184 0.0013
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+dun
+  mean          0.0114      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+say
+  mean          0.0189 0.0013
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+around
+  mean          0.0122 0.0027
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+dont
+  mean          0.0559 0.0295
+  std. dev.     0.2578 0.1914
+  weight sum      4827    747
+  precision          1      1
+
+think
+  mean          0.0265 0.0054
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+back
+  mean          0.0267 0.0308
+  std. dev.     0.1676 0.1803
+  weight sum      4827    747
+  precision          1      1
+
+hey
+  mean           0.022 0.0067
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+like
+  mean          0.0479 0.0174
+  std. dev.     0.2321 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+now
+  mean          0.0599 0.2544
+  std. dev.      0.245 0.4623
+  weight sum      4827    747
+  precision          1      1
+
+send
+  mean          0.0255  0.091
+  std. dev.     0.1667 0.2877
+  weight sum      4827    747
+  precision          1      1
+
+still
+  mean          0.0305 0.0094
+  std. dev.     0.1742 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+even
+  mean          0.0118  0.008
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+friends
+  mean           0.011 0.0067
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+per
+  mean          0.0027 0.0616
+  std. dev.     0.1667 0.2459
+  weight sum      4827    747
+  precision          1      1
+
+call
+  mean          0.0479 0.4685
+  std. dev.     0.2285 0.5668
+  weight sum      4827    747
+  precision          1      1
+
+claim
+  mean               0 0.1513
+  std. dev.     0.1667 0.3765
+  weight sum      4827    747
+  precision          1      1
+
+customer
+  mean          0.0019 0.0656
+  std. dev.     0.1667 0.2476
+  weight sum      4827    747
+  precision          1      1
+
+prize
+  mean               0 0.1232
+  std. dev.     0.1667 0.3597
+  weight sum      4827    747
+  precision          1      1
+
+mobile
+  mean          0.0031  0.166
+  std. dev.     0.1667  0.432
+  weight sum      4827    747
+  precision          1      1
+
+gonna
+  mean           0.012      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+home
+  mean          0.0331 0.0027
+  std. dev.     0.1813 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+ive
+  mean          0.0153 0.0013
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+soon
+  mean          0.0116  0.004
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+today
+  mean          0.0259 0.0214
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+tonight
+  mean           0.012 0.0027
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+want
+  mean           0.034 0.0388
+  std. dev.     0.1879 0.2066
+  weight sum      4827    747
+  precision          1      1
+
+cash
+  mean          0.0025  0.083
+  std. dev.     0.1667 0.2807
+  weight sum      4827    747
+  precision          1      1
+
+reply
+  mean          0.0089 0.1352
+  std. dev.     0.1667 0.3791
+  weight sum      4827    747
+  precision          1      1
+
+urgent
+  mean          0.0004 0.0843
+  std. dev.     0.1667 0.2827
+  weight sum      4827    747
+  precision          1      1
+
+week
+  mean          0.0137 0.0669
+  std. dev.     0.1667 0.2849
+  weight sum      4827    747
+  precision          1      1
+
+won
+  mean               0 0.0977
+  std. dev.     0.1667 0.2969
+  weight sum      4827    747
+  precision          1      1
+
+help
+  mean          0.0075 0.0308
+  std. dev.     0.1667 0.1946
+  weight sum      4827    747
+  precision          1      1
+
+right
+  mean          0.0184  0.004
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+take
+  mean          0.0232 0.0187
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+will
+  mean          0.0112  0.006
+  std. dev.      0.375  0.375
+  weight sum      4827    747
+  precision       2.25   2.25
+
+wont
+  mean           0.011  0.004
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+message
+  mean          0.0106 0.0428
+  std. dev.     0.1667 0.2214
+  weight sum      4827    747
+  precision          1      1
+
+next
+  mean          0.0095 0.0214
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+make
+  mean          0.0182 0.0174
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+name
+  mean           0.007 0.0228
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+yes
+  mean          0.0147 0.0281
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+feel
+  mean          0.0128      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+thats
+  mean          0.0205      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+way
+  mean          0.0207 0.0013
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+miss
+  mean          0.0149 0.0094
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+going
+  mean          0.0346 0.0054
+  std. dev.     0.1894 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+try
+  mean          0.0093  0.008
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+first
+  mean          0.0116  0.008
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+lor
+  mean          0.0331      0
+  std. dev.     0.1988 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+can
+  mean          0.1265 0.0656
+  std. dev.     0.4724 0.3324
+  weight sum      4827    747
+  precision       1.75   1.75
+
+meet
+  mean          0.0149  0.008
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+getting
+  mean          0.0095 0.0054
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+just
+  mean          0.0601 0.1044
+  std. dev.     0.2454 0.3058
+  weight sum      4827    747
+  precision          1      1
+
+lol
+  mean          0.0151      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+really
+  mean          0.0176 0.0013
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+always
+  mean          0.0118      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+love
+  mean          0.0394 0.0134
+  std. dev.     0.2278 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+amp
+  mean          0.0229      0
+  std. dev.     0.2222 0.2222
+  weight sum      4827    747
+  precision     1.3333 1.3333
+
+ill
+  mean          0.0493 0.0013
+  std. dev.     0.2222 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+know
+  mean          0.0481 0.0335
+  std. dev.     0.2243 0.2075
+  weight sum      4827    747
+  precision          1      1
+
+let
+  mean          0.0145      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+work
+  mean          0.0201  0.004
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+sure
+  mean          0.0147      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+wait
+  mean          0.0118 0.0027
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+yeah
+  mean          0.0176 0.0013
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+anything
+  mean          0.0155      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+tell
+  mean          0.0251 0.0214
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+please
+  mean           0.016 0.0723
+  std. dev.     0.1667  0.259
+  weight sum      4827    747
+  precision          1      1
+
+thanks
+  mean          0.0128 0.0187
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+msg
+  mean          0.0112 0.0388
+  std. dev.     0.1667    0.2
+  weight sum      4827    747
+  precision          1      1
+
+see
+  mean          0.0286 0.0254
+  std. dev.     0.1679 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+pls
+  mean          0.0203 0.0147
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+need
+  mean          0.0325 0.0134
+  std. dev.     0.1854 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+nokia
+  mean          0.0006 0.0924
+  std. dev.     0.1667 0.3559
+  weight sum      4827    747
+  precision          1      1
+
+tomorrow
+  mean          0.0166 0.0134
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+hope
+  mean          0.0207 0.0054
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+ltgt
+  mean          0.0236      0
+  std. dev.        0.5    0.5
+  weight sum      4827    747
+  precision          3      3
+
+well
+  mean          0.0265 0.0094
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+didnt
+  mean          0.0168      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+get
+  mean          0.0636 0.1111
+  std. dev.     0.2613 0.3185
+  weight sum      4827    747
+  precision          1      1
+
+ask
+  mean          0.0182      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+cant
+  mean          0.0404 0.0112
+  std. dev.     0.2778 0.2778
+  weight sum      4827    747
+  precision     1.6667 1.6667
+
+time
+  mean          0.0392 0.0254
+  std. dev.     0.2064 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+morning
+  mean          0.0236      0
+  std. dev.       0.25   0.25
+  weight sum      4827    747
+  precision        1.5    1.5
+
+place
+  mean          0.0112 0.0067
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+give
+  mean          0.0197 0.0107
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+happy
+  mean          0.0085      0
+  std. dev.      0.625  0.625
+  weight sum      4827    747
+  precision       3.75   3.75
+
+sorry
+  mean          0.0317  0.004
+  std. dev.     0.1866 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+new
+  mean          0.0139 0.0924
+  std. dev.     0.1667 0.2941
+  weight sum      4827    747
+  precision          1      1
+
+find
+  mean          0.0104 0.0308
+  std. dev.     0.1667 0.1727
+  weight sum      4827    747
+  precision          1      1
+
+year
+  mean          0.0091  0.008
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+later
+  mean          0.0278      0
+  std. dev.      0.168 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+pick
+  mean          0.0143 0.0027
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+good
+  mean          0.0464 0.0161
+  std. dev.     0.2237 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+come
+  mean           0.047 0.0027
+  std. dev.     0.2277 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+nice
+  mean          0.0118      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+said
+  mean           0.018      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+day
+  mean          0.0572 0.0361
+  std. dev.     0.2968   0.25
+  weight sum      4827    747
+  precision        1.5    1.5
+
+money
+  mean           0.011 0.0054
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+babe
+  mean          0.0143 0.0107
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+something
+  mean          0.0141      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+waiting
+  mean          0.0075 0.0228
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+much
+  mean          0.0232 0.0013
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+stop
+  mean          0.0077  0.158
+  std. dev.     0.1667 0.4411
+  weight sum      4827    747
+  precision          1      1
+
+one
+  mean          0.0338 0.0107
+  std. dev.     0.1981 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+late
+  mean          0.0114 0.0013
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+night
+  mean          0.0226  0.008
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+someone
+  mean          0.0095 0.0187
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+guaranteed
+  mean               0 0.0669
+  std. dev.     0.1667 0.2499
+  weight sum      4827    747
+  precision          1      1
+
+service
+  mean          0.0008 0.0736
+  std. dev.     0.1667 0.2662
+  weight sum      4827    747
+  precision          1      1
+
+buy
+  mean          0.0128  0.004
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+box
+  mean           0.001 0.0643
+  std. dev.     0.1667 0.2452
+  weight sum      4827    747
+  precision          1      1
+
+yet
+  mean          0.0099 0.0027
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+youre
+  mean          0.0108 0.0027
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+dear
+  mean          0.0201 0.0214
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+life
+  mean          0.0157  0.004
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+people
+  mean          0.0097  0.004
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+cos
+  mean          0.0157      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+things
+  mean          0.0106 0.0027
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+contact
+  mean          0.0025  0.075
+  std. dev.     0.1667 0.2633
+  weight sum      4827    747
+  precision          1      1
+
+last
+  mean          0.0135 0.0174
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+went
+  mean          0.0126      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+sent
+  mean           0.012 0.0134
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+chat
+  mean          0.0029 0.0576
+  std. dev.     0.1667 0.2601
+  weight sum      4827    747
+  precision          1      1
+
+gud
+  mean          0.0133      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+thk
+  mean          0.0104      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+keep
+  mean          0.0128  0.008
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+also
+  mean          0.0141  0.004
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+coming
+  mean          0.0104      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+every
+  mean          0.0108 0.0589
+  std. dev.     0.2222  0.274
+  weight sum      4827    747
+  precision     1.3333 1.3333
+
+told
+  mean           0.011      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+sleep
+  mean          0.0116      0
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+care
+  mean          0.0131 0.0067
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+mins
+  mean          0.0025 0.0509
+  std. dev.     0.1667 0.2197
+  weight sum      4827    747
+  precision          1      1
+
+phone
+  mean          0.0166 0.0616
+  std. dev.     0.1667 0.2404
+  weight sum      4827    747
+  precision          1      1
+
+number
+  mean          0.0193 0.0602
+  std. dev.       0.25 0.2945
+  weight sum      4827    747
+  precision        1.5    1.5
+
+wish
+  mean          0.0104 0.0027
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+leave
+  mean           0.011 0.0027
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+thing
+  mean          0.0124 0.0013
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+many
+  mean          0.0116  0.004
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+wan
+  mean           0.011 0.0054
+  std. dev.     0.1667 0.1667
+  weight sum      4827    747
+  precision          1      1
+
+
+
+Time taken to build model: 0.04 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        5265               94.4564 %
+Incorrectly Classified Instances       309                5.5436 %
+Kappa statistic                          0.7569
+Mean absolute error                      0.0609
+Root mean squared error                  0.2228
+Relative absolute error                 26.229  %
+Root relative squared error             65.4096 %
+Total Number of Instances             5574     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,971    0,228    0,965      0,971    0,968      0,757    0,943     0,984     no
+                 0,772    0,029    0,806      0,772    0,789      0,757    0,942     0,765     yes
+Weighted Avg.    0,945    0,201    0,944      0,945    0,944      0,757    0,943     0,954     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 4688  139 |    a = no
+  170  577 |    b = yes
+
